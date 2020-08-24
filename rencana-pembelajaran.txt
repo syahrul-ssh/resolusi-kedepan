@@ -1,5 +1,6 @@
 RENCANA PEMBELAJARAN SAYA
 - belajar Kotlin
 - belajar Java
+- belajar flutter
 - belajar dasar android
 - belajar android expert
