@@ -1,5 +1,5 @@
-RENCANA PEMBELAJARAN SAYA
-- belajar Kotlin
-- belajar Java
-- belajar dasar android
-- belajar android expert
+RENCANA PEMBELAJARAN WEB
+- belajar HTML
+- belajar CSS
+- belajar JavaScript
+- belajar PHP
