@@ -1,7 +1,5 @@
-RENCANA PEMBELAJARAN Android
-- belajar Kotlin
-- belajar Java
-- belajar flutter
-- belajar dasar android
-- belajar android expert
-- belajar membuat project android
+RENCANA PEMBELAJARAN WEB
+- belajar HTML
+- belajar CSS
+- belajar JavaScript
+- belajar PHP
